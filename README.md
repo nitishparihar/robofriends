@@ -1,3 +1,5 @@
-# robofriends-hooks
+# Welcome to RoboFriends
 
-Robofriends with Hooks!
+React App created using create-react-app and deployed using gh-pages
+
+Search for your robot friend
